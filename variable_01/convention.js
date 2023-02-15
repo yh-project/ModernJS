@@ -1,3 +1,6 @@
+// 네이밍 컨벤션
+
+
 var resultVal;
 // 카멜 케이스 camel Case
 

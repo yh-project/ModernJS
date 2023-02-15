@@ -1,3 +1,6 @@
+// 네이밍 규칙
+
+
 var first_result, $res, _val;
 // 가능
 
