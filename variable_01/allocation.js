@@ -18,7 +18,3 @@ var result = 35;
 
 console.log(result);
 // 35가 할당되어 있는 상태기에 35 출력
-
-
-
-//asdf
