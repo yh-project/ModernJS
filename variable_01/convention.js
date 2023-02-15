@@ -10,5 +10,3 @@ var result_val;
 var iVal;
 // 헝가리안 케이스
 // type(값의 타입) + identifier(식별자)
-
-//asdf
